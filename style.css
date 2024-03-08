@@ -1,0 +1,136 @@
+.main-nav{
+    background-color: white;
+    color:black;
+}
+.nav-link{
+    font-size: 1.2em;
+    font-weight: 600;
+    padding:0.1em 0.3em 0.1em 0.3em;
+    margin:0em 1em 0em 0.2em;
+}
+.main-logo{
+    width:7em;
+}
+.slider-img{
+    height:30em;
+    width:auto;
+    border-radius: 0.6em;
+}
+.swiper{
+    height:auto;
+    margin:7em 3em 0 3m;
+    padding-top: 4em;
+    width:auto;
+    
+}
+.naclass{
+    box-shadow: 0 5px 40px 3px rgba(200, 191, 191, 0.641)!important;
+    opacity:0.9;
+}
+.second-cont{
+    margin:5em 0em 1em 0em;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.cont1{
+   
+    height:auto;
+    background-size:cover;
+    width:auto;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-bottom-right-radius: 1.1em;
+}
+.tab-img{
+    border-radius:0.6em;
+    width:30em;
+    height:auto;
+}
+.cont2{
+    width:34em;
+    height:auto;
+    margin:1em 0em 1em 2em;
+    border-bottom-right-radius: 0.6em;
+}
+.first-head{
+    color:rgb(255, 149, 0);
+    font-style:Inter;
+    font-size: 1.6em;
+    font-weight: 700;
+}
+.intro-para{
+    font-size: 1.15em;
+    text-align: justify;
+    color:black;
+    font-weight: 600;
+}
+.third-cont{
+    margin-top: 5em;
+}
+.sec-head{
+    font-size: 2.5em;
+    color:rgb(255, 111, 0);
+    font-weight: 700;
+    font-style: Inter;
+    letter-spacing: 3px;
+    word-spacing:10px;
+    margin-top: 1.5em;
+}
+.idea-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width:100%;
+}
+.idea-intro{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 1em;
+}
+.sub-div{
+    width:11em;
+    height:21em;
+    margin-bottom: 5em;
+}
+.time_head{
+    font-size: 2.5em;
+    font-size: 700;
+    letter-spacing: 1px;
+    color:black;
+    font-style: Inter;
+    word-spacing: 10px;
+}
+.last-cont{
+    width:100%;
+    height:15em;
+    background-color: black;
+}
+.contact-head{
+    font-size: 2.2em;
+    color:white;
+    font-weight: 600;
+}
+.contact-cont{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
+.name{
+    color:white;
+    font-size: 1.8em;
+    font-weight:600;
+}
+.phone{
+    color:white;
+    font-weight: 500;
+    font-size: 1.4em;
+}
+.email{
+    color:white;
+    font-weight: 500;
+    font-size: 1.4em;
+}
